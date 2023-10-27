@@ -86,7 +86,8 @@
     "yfm"
   ],
   "browser": {
-    "fs": false
+    "fs": false,
+    "buffer": false
   },
   "typings": "gray-matter.d.ts",
   "eslintConfig": {
